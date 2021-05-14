@@ -1,7 +1,9 @@
 ### Hi there 👋
-# About Me 🔴🟠🟡🟢🔵🟣
+# About Me 
 
   I'm Albert Bici University Student in **Business Informatic**
+  
+  <p style="color:red;"> ciao </p>
   
   I'm currently trying to improve my developing skills in term of clean code and project development
   
