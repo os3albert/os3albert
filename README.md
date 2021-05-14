@@ -1,7 +1,7 @@
 ### Hi there 👋
 # About Me
 
-  I'm Albert Bici University Student in *Business Informatic*
+  I'm Albert Bici University Student in **Business Informatic**
   
   I'm currently trying to improve my developing skills in term of clean code and project development
   
