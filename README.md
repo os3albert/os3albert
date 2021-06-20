@@ -14,8 +14,7 @@
 In General I Love All about Computer Science 💻, but my favorite interest is productivity 🟢.
 
 
-
-[![Anurag's GitHub stats](https://github.com/os3albert/github-readme-stats/api?username=os3albert&show_icons=true&theme=hacker)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=os3albert&show_icons=true&title_color=0E0&text_color=0E0&icon_color=0E0&bg_color=001&border_color=0E0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
