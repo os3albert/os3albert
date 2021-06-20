@@ -8,7 +8,7 @@
   - project development 📈
   
   I'm working in **personal project** on:
-  - 3D Modeling World, trying to use my programming skills to push ahead this beatiful world.
+  - 3D Modeling World, trying to use my programming skills to push ahead this beautiful world.
   
 ---
 In General I Love All about Computer Science 💻, but my favorite interest is productivity 🟢.
