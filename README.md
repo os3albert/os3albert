@@ -13,6 +13,9 @@
 ---
 In General I Love All about Computer Science 💻, but my favorite interest is productivity 🟢.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=os3albert)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **os3albert/os3albert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
