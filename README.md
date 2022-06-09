@@ -3,7 +3,9 @@
 
   I'm Albert
   
-  🎓 University Student in &#x1F4D8; **Business Informatic** &#x1F4D8;
+  🎓 University
+  
+  Student in &#x1F4D8; **Business Informatic** &#x1F4D8;
   
   I'm currently 🎯 trying to improve:
   - my developing skills in term of clean code
