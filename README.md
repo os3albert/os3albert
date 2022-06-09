@@ -2,6 +2,7 @@
 # About Me 💻
 
   I'm Albert
+  
   🎓 University Student in &#x1F4D8; **Business Informatic** &#x1F4D8;
   
   I'm currently 🎯 trying to improve:
