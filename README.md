@@ -3,10 +3,6 @@
 
   I'm Albert
   
-  🎓 University
-  
-  Student in &#x1F4D8; **Business Informatic** &#x1F4D8;
-  
   I'm currently 🎯 trying to improve:
   - my developing skills in term of clean code
   - project development 📈
@@ -18,7 +14,7 @@
 In General I Love All about Computer Science 💻, but my favorite interest is productivity 🟢.
 
 
-[![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=os3albert&show_icons=true&title_color=000&text_color=000&icon_color=000&bg_color=FFF&border_color=000)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=os3albert&show_icons=true&title_color=000&text_color=000&icon_color=000&bg_color=FFF&border_color=000)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
