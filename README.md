@@ -15,7 +15,6 @@
   - Building Portfolio
   - OpenSource Contributions -->
   
----
 <!-- [![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=os3albert&show_icons=true&title_color=000&text_color=000&icon_color=000&bg_color=FFF&border_color=000)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
