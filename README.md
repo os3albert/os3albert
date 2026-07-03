@@ -3,19 +3,20 @@
 
   I'm Albert
   
-  I'm currently 🎯 trying to improve:
-  - my developing skills in term of clean code
-  - project development 📈
+  I'm currently into 🎯 :
+  - web dev (React, Vue, Ionic, Express)
+  - graphic design (Figma)
+  - mobile (Ionic) <!-- later on ->(flutter) -->
+  - 3d sculpting (Blender)
+  - project management 📈 (Agile, Kanban, DevOps)
+  - ecommerce
   
-  I'm working in **personal project** on:
-  - 3D Modeling World, trying to use my programming skills to push ahead this beautiful world.
+  <!-- I'm working in **personal project** on:
+  - Building Portfolio
+  - OpenSource Contributions -->
   
 ---
-In General I Love All about Computer Science 💻, but my favorite interest is productivity 🟢.
-
-
 <!-- [![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=os3albert&show_icons=true&title_color=000&text_color=000&icon_color=000&bg_color=FFF&border_color=000)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 <!--
 **os3albert/os3albert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
